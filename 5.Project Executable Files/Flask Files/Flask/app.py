@@ -1,4 +1,5 @@
 from __future__ import division, print_function
+import utils.session
 import numpy as np
 import os
 from tensorflow.keras.applications.xception import Xception
